@@ -1,3 +1,7 @@
+I have hosted the project live on the link below. Click the link to directly open the project and access it and perform any task.
+
+http://7f83-72-139-206-213.ngrok.io/php-crud/main.html
+
 I did database host on phpmyadmin.
 
 Firstly, we have to import the documents.sql file to the phpmyadmin localhost.
